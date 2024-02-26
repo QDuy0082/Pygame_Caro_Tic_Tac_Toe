@@ -1,0 +1,12 @@
+1. closure of G under o: for all x,y in G then xoy in G
+consider a G and operation o: GxG -> G defined on G. Then G:= (G,o) is called a group if the following hold: property 1
+2. associativity: for all x,y,z in G then xo(yoz) = (xoy)oz
+consider a G and operation o: GxG -> G defined on G. Then G:= (G,o) is called a group if the following hold: property 2
+3. neutral element: exist e in G such that for all x in G then xoe = x and eox = x
+consider a G and operation o: GxG -> G defined on G. Then G:= (G,o) is called a group if the following hold: property 3
+4. inverse element: for all x in G, exist y in G such that xoy = e and yox = e, where e is the neutral element
+consider a G and operation o: GxG -> G defined on G. Then G:= (G,o) is called a group if the following hold: property 4
+for all x,y in G then xoy= y0x
+What is an Abelian group?
+Let V is  a vector space and U in V (U <> 0). Then U = (U,+,.) is called a vector subspace if U is a vector space with the vector space operations + and . restricted to UxU and RxU
+What is vector subspace?
