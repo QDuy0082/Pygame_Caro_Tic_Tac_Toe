@@ -12,7 +12,7 @@ This project is a Caro (Gomoku) game implemented using Python and Pygame. The ga
 - Customizable board size.
 - Win detection for rows, columns, and diagonals.
 
-## Member
+## Members
 - Lê Quang Khải
 - Trần Quốc Duy
 - Nguyễn Quang Thinh
