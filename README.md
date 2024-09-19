@@ -13,7 +13,7 @@ This project is a Caro (Gomoku) game implemented using Python and Pygame. The ga
 - Win detection for rows, columns, and diagonals.
 
 ## Member
-Lê Quang Khải
-Trần Quốc Duy
-Nguyễn Quang Thinh
-Đỗ Duy Khang
+- Lê Quang Khải
+- Trần Quốc Duy
+- Nguyễn Quang Thinh
+- Đỗ Duy Khang
